@@ -1,0 +1,7 @@
+The pretrained models can be found at the following repositories:
+DeepLabv3+ - https://github.com/VainF/DeepLabV3Plus-Pytorch
+Segformer - https://github.com/NVlabs/SegFormer
+Multimodal Unet- https://github.com/nibtehaz/MultiResUNet
+RGB-D SegNet - https://github.com/Alpharouk/Semantic-segmentation-RGBD-SegNet
+
+Kindly follow the instructions on the dataset to replicate the results
